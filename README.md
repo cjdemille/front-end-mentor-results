@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/cjdemille/front-end-mentor-results)
-- Live Site URL: [Add live site URL here](https://cjdemille.github.io/front-end-mentor-results/)
+- [Solution URL](https://github.com/cjdemille/front-end-mentor-results)
+- [Live Site URL](https://cjdemille.github.io/front-end-mentor-results/)
 
 ## My process
 
