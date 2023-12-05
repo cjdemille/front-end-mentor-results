@@ -94,6 +94,10 @@ main {
     border-radius: 1rem;
 }
 
+.block p {
+    display: inline;
+}
+
 .title {
     display: flex;
 }
@@ -102,22 +106,22 @@ main {
     margin-right: .25rem;
 }
 
-.reaction {
+.Reaction {
     background-color: var(--redA);
     color: var(--red)
 }
 
-.memory {
+.Memory {
     background-color: var(--yellowA);
     color: var(--yellow)
 }
 
-.verbal {
+.Verbal {
     background-color: var(--greenA);
     color: var(--green)
 }
 
-.visual {
+.Visual {
     background-color: var(--blueA);
     color: var(--blue);
 }
